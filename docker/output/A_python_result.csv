@@ -1,0 +1,41 @@
+Log_ID,Guest_ID,Check_In_Date,Duration_String,Location_ID,Guest_Type,Stay_Duration_Hours
+1001,G1234,2024-03-15,"2 days, 10 hours",LOC01,New,58
+1003,G9012,2024-06-01,"4 days, 0 hours",LOC01,Returning,96
+1004,G3456,2024-01-05,10 hours,LOC02,New,10
+1005,G7890,2024-07-20,"5 days, 15 hours",LOC04,Returning,135
+1006,G1122,2024-02-14,"1 day, 2 hours",LOC05,Returning,26
+1007,G3344,2024-08-01,18 hours,LOC01,New,18
+1008,G5566,2024-04-22,"3 days, 6 hours",LOC02,New,78
+1010,G9900,2024-05-19,"2 days, 20 hours",LOC04,New,68
+1011,G0011,2024-01-01,"1 day, 0 hours",LOC05,Returning,24
+1012,G2233,2024-07-25,9 hours,LOC01,Returning,9
+1013,G4455,2024-03-08,"3 days, 12 hours",LOC02,New,84
+1015,G8899,2024-06-15,14 hours,LOC04,Returning,14
+1016,G1212,2024-02-29,"4 days, 4 hours",LOC05,New,100
+1017,G3434,2024-08-20,"1 day, 16 hours",LOC01,Returning,40
+1018,G5656,2024-04-01,"5 days, 0 hours",LOC02,New,120
+1020,G9090,2024-05-05,"2 days, 18 hours",LOC04,Returning,66
+1021,G1357,2024-01-10,"1 day, 4 hours",LOC05,Returning,28
+1022,G2468,2024-07-04,11 hours,LOC01,New,11
+1023,G3579,2024-03-20,"3 days, 8 hours",LOC02,New,80
+1025,G5791,2024-06-30,"1 day, 13 hours",LOC04,Returning,37
+1026,G6802,2024-02-01,"4 days, 16 hours",LOC05,New,112
+1027,G7913,2024-08-15,6 hours,LOC01,Returning,6
+1028,G8024,2024-04-10,"2 days, 22 hours",LOC02,New,70
+1030,G0246,2024-05-25,"3 days, 10 hours",LOC04,New,82
+1031,G1468,2024-01-22,12 hours,LOC05,New,12
+1032,G2579,2024-07-11,"5 days, 1 hour",LOC01,Returning,121
+1033,G3680,2024-03-01,"1 day, 7 hours",LOC02,Returning,31
+1034,G4791,2024-05-15,16 hours,LOC03,New,16
+1035,G5802,2024-06-08,"2 days, 19 hours",LOC04,New,67
+1036,G6913,2024-02-08,"3 days, 0 hours",LOC05,Returning,72
+1037,G7024,2024-08-25,"1 day, 19 hours",LOC01,Returning,43
+1038,G8135,2024-04-18,"4 days, 5 hours",LOC02,New,101
+1040,G0357,2024-05-01,"2 days, 3 hours",LOC04,Returning,51
+1041,G1479,2024-01-29,"1 day, 23 hours",LOC05,New,47
+1042,G2591,2024-07-28,17 hours,LOC01,Returning,17
+1043,G3602,2024-03-25,"3 days, 14 hours",LOC02,New,86
+1045,G5824,2024-06-20,"1 day, 9 hours",LOC04,Returning,33
+1046,G6935,2024-02-18,5 hours,LOC05,New,5
+1048,G8157,2024-04-29,"2 days, 7 hours",LOC02,Returning,55
+1050,G0379,2024-05-10,"3 days, 5 hours",LOC04,Returning,77

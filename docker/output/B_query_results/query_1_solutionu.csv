@@ -1,0 +1,17 @@
+guest_name,location_name,booking_date,total_price,previous_check_out_date,rating
+Ahmad Santoso,Bobobox Pods Jakarta,2024-01-10,575000.0,,5
+Ahmad Santoso,Bobobox Pods Jakarta,2024-08-01,575000.0,2024-06-17,5
+Ahmad Santoso,Bobobox Pods Bali,2024-12-20,575000.0,2024-08-07,5
+Budi Wijaya,Bobobox Pods Jakarta,2024-04-15,1150000.0,2024-02-11,5
+Citra Pratiwi,Bobobox Pods Jakarta,2024-10-10,287500.0,2024-05-26,5
+Eko Hidayat,Bobobox Pods Jakarta,2024-12-01,575000.0,2024-06-12,5
+Gita Nugroho,Bobobox Pods Jakarta,2024-09-25,287500.0,2024-07-22,5
+Indra Lestari,Bobobox Pods Surabaya,2024-02-28,287500.0,,5
+Oki Hidayat,Bobobox Pods Bali,2024-10-01,1437500.0,2024-10-06,5
+Putri Santoso,Bobobox Pods Surabaya,2024-08-05,575000.0,2024-06-08,5
+Sari Nugroho,Bobobox Pods Surabaya,2024-10-25,287500.0,2024-05-18,5
+Umi Lestari,Bobobox Pods Jakarta,2024-02-20,862500.0,,5
+Umi Lestari,Bobobox Pods Surabaya,2024-12-15,575000.0,2024-08-19,5
+Wahyu Hidayat,Bobobox Pods Bali,2024-08-15,575000.0,2024-06-27,5
+Xavier Sari,Bobobox Pods Jakarta,2024-05-01,1150000.0,,5
+Yuni Putra,Bobobox Pods Bali,2024-10-30,287500.0,2024-07-13,5

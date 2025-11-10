@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database untuk Soal 2
+  postgres-db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: bobobox
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./database/init-script:/docker-entrypoint-initdb.d  # Auto-run setup
+      - ./database:/app/database  # Sync semua file database
+
+  # Python App untuk Soal 1 + Soal 2
+  python-app:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+      - ./output:/app/output
+      - ./database:/app/database  # Access SQL files
+    environment:
+      - PYTHONPATH=/app
+    depends_on:
+      - postgres-db  # Tunggu database ready
+
