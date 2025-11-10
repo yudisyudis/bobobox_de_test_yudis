@@ -12,3 +12,7 @@ Soal C, mengenai Data Analysis challenge solusinya ada di file [C_dataAnalysis_s
 dalam project ini, telah disediakan 2 buah sample data yang digunakan untuk Python challenge dan Data Analysis challenge yang saya masukkan di folder [Data](./docker/data). Sementara untuk SQL challenge tidak disediakan data, hanya schema database, sehingga saya mengenerate data sendiri sesuai dengan skema dan skenario soal, yang konfigurasi generate nya saya tampung di folder [Database](./docker/database), di mana di bagian tersebut ada schema table dan insert data table.
 
 seluruh output dari solusi yang telah dijalankan dapat ditemui di folder [Output](./docker/output), satu file hasil solusi python challenge, 2 file hasil query challenge, dan beberapa gambar dan summary dari Data analysis challenge. Sementara untuk soal D terkait database design saya buatkan file DDL-nya.
+
+File dalam bentuk format .ipynb hasil dari eksperimen yang saya lakukan untuk project ini saya tampung juga dalam folder [Jupyter](./docker/jupyter) in case diperlukan.
+
+Demikian hasil pengerjaan project test Data Engineering Bobobox oleh saya, semoga dapat dinilai optimal.
