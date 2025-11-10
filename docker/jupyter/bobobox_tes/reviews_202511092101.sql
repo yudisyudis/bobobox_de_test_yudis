@@ -1,0 +1,66 @@
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00031','B00056',5,'Pelayanan excellent! Sangat memuaskan','2024-08-07'),
+	 ('R00032','B00057',4,'Bagus dan nyaman','2024-09-22'),
+	 ('R00033','B00058',5,'Sangat recommended!','2024-10-17'),
+	 ('R00034','B00059',4,'Pengalaman menyenangkan','2024-11-12'),
+	 ('R00035','B00060',5,'Fantastis! Akan kembali lagi','2024-12-08'),
+	 ('R00036','B00061',4,'Lokasi strategis','2024-08-27'),
+	 ('R00037','B00062',5,'Pelayanan ramah dan cepat','2024-10-02'),
+	 ('R00038','B00063',4,'Harga worth it','2024-10-27'),
+	 ('R00039','B00064',5,'Sangat memuaskan!','2024-08-17'),
+	 ('R00040','B00065',4,'Cabin nyaman dan bersih','2024-09-12');
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00041','B00066',5,'Pengalaman terbaik','2024-10-08'),
+	 ('R00042','B00067',4,'Recommended untuk keluarga','2024-11-22'),
+	 ('R00043','B00068',5,'Pelayanan excellent','2024-12-17'),
+	 ('R00044','B00069',4,'Fasilitas lengkap','2024-09-01'),
+	 ('R00045','B00070',5,'Sangat puas','2024-10-07'),
+	 ('R00046','B00071',5,'Sangat recommended!','2024-08-12'),
+	 ('R00047','B00072',4,'Pengalaman baik','2024-09-17'),
+	 ('R00048','B00073',5,'Pelayanan memuaskan','2024-11-01'),
+	 ('R00049','B00074',4,'Lokasi bagus','2024-11-27'),
+	 ('R00050','B00075',5,'Fantastis!','2024-12-22');
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00051','B00076',4,'Harga sesuai kualitas','2024-09-06'),
+	 ('R00052','B00077',5,'Pemandangan bagus','2024-08-22'),
+	 ('R00053','B00078',4,'Nyaman dan tenang','2024-09-27'),
+	 ('R00054','B00079',5,'Pelayanan excellent','2024-11-05'),
+	 ('R00055','B00080',4,'Recommended','2024-12-01'),
+	 ('R00056','B00081',5,'Pengalaman unforgettable','2024-12-27'),
+	 ('R00057','B00006',4,'Update review - cukup memuaskan','2024-07-08'),
+	 ('R00058','B00014',4,'Update review - pengalaman baik','2024-06-12'),
+	 ('R00059','B00020',4,'Update review - worth the price','2024-07-22'),
+	 ('R00060','B00025',4,'Update review - nyaman dan bersih','2024-05-12');
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00001','B00001',5,'Sangat memuaskan! Pelayanan excellent','2024-01-18'),
+	 ('R00002','B00002',4,'Pengalaman menyenangkan, akan kembali lagi','2024-03-28'),
+	 ('R00003','B00004',3,'Cukup baik untuk harga yang dibayar','2024-02-12'),
+	 ('R00004','B00005',5,'Pelayanan sangat memuaskan!','2024-04-23'),
+	 ('R00005','B00008',4,'Lokasi strategis dan fasilitas lengkap','2024-03-17'),
+	 ('R00006','B00010',2,'Agak mengecewakan, kebersihan kurang','2024-01-12'),
+	 ('R00007','B00013',5,'Sangat recommended untuk keluarga','2024-02-22'),
+	 ('R00008','B00015',4,'Nyaman dan harga terjangkau','2024-01-27'),
+	 ('R00009','B00016',5,'Pengalaman terbaik sejauh ini!','2024-03-22'),
+	 ('R00010','B00019',3,'Standard, tidak ada yang spesial','2024-04-08');
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00011','B00021',4,'Pelayanan ramah dan cepat','2024-03-25'),
+	 ('R00012','B00024',5,'Sangat puas, lokasi bagus','2024-03-06'),
+	 ('R00013','B00026',4,'Bagus untuk staycation akhir pekan','2024-04-21'),
+	 ('R00014','B00029',3,'Cukup memuaskan','2024-03-08'),
+	 ('R00015','B00032',5,'Excellent! Highly recommended','2024-02-17'),
+	 ('R00016','B00035',4,'Pengalaman yang menyenangkan','2024-02-06'),
+	 ('R00017','B00037',2,'Fasilitas kurang terawat','2024-03-17'),
+	 ('R00018','B00040',5,'Sangat worth it dengan harga segini','2024-10-08'),
+	 ('R00019','B00042',4,'Pelayanan memuaskan','2024-04-12'),
+	 ('R00020','B00045',3,'Bisa lebih baik lagi','2024-03-27');
+INSERT INTO "BOBOBOX_TEST_SQL_SCHEMA".reviews (review_id,booking_id,rating,"comment",review_date) VALUES
+	 ('R00021','B00047',5,'Sangat recommended!','2024-02-27'),
+	 ('R00022','B00050',4,'Pengalaman menyenangkan','2024-04-27'),
+	 ('R00023','B00051',3,'Cukup standar, sesuai ekspektasi','2024-03-12'),
+	 ('R00024','B00053',5,'Fantastis! Akan kembali lagi','2024-05-08'),
+	 ('R00025','B00054',4,'Bagus dan nyaman','2024-04-22'),
+	 ('R00026','B00007',5,'Pelayanan luar biasa!','2024-09-17'),
+	 ('R00027','B00012',4,'Menyenangkan, fasilitas lengkap','2024-08-27'),
+	 ('R00028','B00018',3,'Lumayan, harga sesuai','2024-08-08'),
+	 ('R00029','B00023',4,'Pengalaman baik','2024-06-22'),
+	 ('R00030','B00028',5,'Sempurna! Tidak ada kekurangan','2024-09-04');
