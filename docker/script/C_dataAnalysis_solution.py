@@ -200,8 +200,8 @@ def main():
     print(f"Output disimpan di: {output_dir}/")
     print("   mobile_vs_web_comparison.png")
     print("   transaction_heatmap.png")
-    print("   anomaly_with_multiplier_label.png  ← ADA LABEL '4.7x rata-rata'!")
-    print("   FINAL_INSIGHT_SUMMARY.txt          ← SIAP COPY KE LINKEDIN!")
+    print("   anomaly_with_multiplier_label.png  ")
+    print("   FINAL_INSIGHT_SUMMARY.txt")
 
 if __name__ == "__main__":
     main()
