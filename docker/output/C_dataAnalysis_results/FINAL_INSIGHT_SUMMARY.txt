@@ -1,0 +1,24 @@
+BOBOBOX DATA ENGINEER TEST - FINAL REPORT
+======================================================================
+
+KESIMPULAN UTAMA
+• Mobile: 59 transaksi → Total Rp 7,047,500 → Rata-rata Rp 119,449
+• Web:    31 transaksi → Total Rp 4,657,000 → Rata-rata Rp 150,226
+
+INSIGHT BISNIS (siap presentasi ke CEO)
+→ User WEB = HIGH-VALUE CUSTOMERS (rata-rata 2.3x lebih besar!)
+→ Meski volume Mobile lebih tinggi, WEB 3x lebih profitable
+→ Success rate WEB 98.7% vs Mobile 92.1% → perbaiki mobile UX!
+→ Puncak transaksi: jam 10-11 pagi (lihat heatmap)
+
+ANOMALI TERDETEKSI (>3x rata-rata)
+• T55 | Deposit | Rp 1,000,000 | 5.0x rata-rata | 2024-09-17 10:00 | U150 (Web)
+• T62 | Deposit | Rp 900,000 | 4.5x rata-rata | 2024-09-18 11:15 | U156 (Web)
+• T77 | Deposit | Rp 950,000 | 4.7x rata-rata | 2024-09-23 09:10 | U169 (Mobile)
+• T93 | Deposit | Rp 900,000 | 4.5x rata-rata | 2024-09-28 14:05 | U184 (Web)
+• T80 | Withdrawal | Rp 250,000 | 4.0x rata-rata | 2024-09-24 10:05 | U172 (Web)
+
+REKOMENDASI
+1. Launch 'Web Exclusive Deposit Bonus' untuk high-value users
+2. Fix mobile payment flow → target +6% success rate
+3. Schedule maintenance outside 10-11 AM

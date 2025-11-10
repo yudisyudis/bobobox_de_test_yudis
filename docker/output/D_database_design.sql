@@ -29,8 +29,7 @@ CREATE TABLE Units (
     Created_Date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     
     FOREIGN KEY (Location_ID) REFERENCES Locations(Location_ID) ON DELETE CASCADE,
-    UNIQUE (Location_ID, Unit_Number)  -- Unit number must be unique within a location
-);
+    UNIQUE (Location_ID, Unit_Number)  
 
 -- 3. TABEL: Sensors (Data semua IoT Sensors)
 -- =============================================================================
