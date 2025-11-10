@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Soal 2: SQL Query Challenge
-Menjalankan queries yang sudah tested
+CREATED DATABASE, INSERTING SAMPLE DATA, AND DOING SOME WRANGLING DATA WITH SQL
 """
 
 import psycopg2

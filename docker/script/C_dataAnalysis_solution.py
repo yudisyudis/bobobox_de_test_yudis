@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
 """
-SOAL 3 - DATA INSIGHT: Mobile vs Web + Anomali dengan "X kali rata-rata"
-Versi DEWA — siap bikin HR Bobobox langsung kirim offer
+SOAL 3 - DATA ANALYSIS CHALLENGE: INCLUDING DATA INSIGHT AND ANOMALY DETECTION
 """
 
 import pandas as pd

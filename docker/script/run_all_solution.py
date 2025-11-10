@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main runner untuk semua solutions
+MAIN FILE, WRAPPING ALL OF THE SOLUTION
 """
 
 import subprocess
